@@ -16,6 +16,12 @@ dev4 is okay
 
 dev4-2 qwerty
 
+<<<<<<< HEAD
 dev5-1
 
 dev5-2
+=======
+dev6 本地强行merge测试
+
+dev6-2
+>>>>>>> dev6
