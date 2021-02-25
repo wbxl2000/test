@@ -17,3 +17,5 @@ dev4 is okay
 dev4-2 qwerty
 
 dev6 本地强行merge测试
+
+dev6-2
